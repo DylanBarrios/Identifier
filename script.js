@@ -1,4 +1,3 @@
-console.log("Hola mundo");
 var data = document.getElementById("data");
 var history_ = document.getElementById("history");
 
